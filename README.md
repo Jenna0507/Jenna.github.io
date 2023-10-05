@@ -1,5 +1,5 @@
 
-# Jenna.github.io
+# Jenna0507.github.io
 Jenna 
 jandrews53712@gmail.com
 I just created this repository as a class assignment for Wake Tech Community college. 
